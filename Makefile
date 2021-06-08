@@ -12,8 +12,8 @@
 
 NAME		=	libasm.a
 
-S			=	src/
-M			=	main/
+S		=	src/
+M		=	main/
 
 SRCS		=	$Sft_strlen.s $Sft_read.s $Sft_write.s $Sft_strcmp.s \
 				$Sft_strcpy.s $Sft_strdup.s $Sft_list_push_front.s \
