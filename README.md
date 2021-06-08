@@ -1,5 +1,5 @@
-# 🧱 libasm
-Basic functions written in assembly language
+🧱# libasm
+Basic functions written in assembly language.
 
 ## Functions
 - strlen: computes the length of a string.
