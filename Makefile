@@ -16,8 +16,8 @@ S		=	src/
 M		=	main/
 
 SRCS		=	$Sft_strlen.s $Sft_read.s $Sft_write.s $Sft_strcmp.s \
-				$Sft_strcpy.s $Sft_strdup.s $Sft_list_push_front.s \
-				$Sft_list_size.s
+			$Sft_strcpy.s $Sft_strdup.s $Sft_list_push_front.s \
+			$Sft_list_size.s
 OBJS		=	$(SRCS:.s=.o)
 
 NASM		=	nasm -f macho64
